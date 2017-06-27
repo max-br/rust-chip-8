@@ -1,0 +1,6 @@
+[package]
+name = "rust-chip-8"
+version = "0.1.0"
+authors = ["maxbr <maxbr@mi.fu-berlin.de>"]
+
+[dependencies]
